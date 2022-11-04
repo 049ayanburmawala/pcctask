@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(190, 42, 158);
+}
+.main{
+
+    width: auto;
+    padding-top: 125px;
+    /* position: absolute; */
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    
+    }
+    h1{
+        text-align: center;
+    }
